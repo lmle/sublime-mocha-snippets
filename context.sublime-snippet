@@ -5,5 +5,5 @@ context('${1:what}', () => {
 });
 ]]></content>
   <tabTrigger>context</tabTrigger>
-  <scope>source.js</scope>
+	<scope>source.js,source.jsx,source.ts,source.tsx</scope>
 </snippet>
