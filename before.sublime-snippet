@@ -4,6 +4,6 @@ before${1:Each}(() => {
 	${2:}
 });
 ]]></content>
-	<tabTrigger>befr</tabTrigger>
-	<scope>source.js</scope>
+	<tabTrigger>before</tabTrigger>
+	<scope>source.js,source.jsx,source.ts,source.tsx</scope>
 </snippet>
