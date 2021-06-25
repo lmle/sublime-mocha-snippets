@@ -4,6 +4,6 @@ after${1:Each}(() => {
 	${2:}
 });
 ]]></content>
-	<tabTrigger>aftr</tabTrigger>
-	<scope>source.js</scope>
+	<tabTrigger>after</tabTrigger>
+	<scope>source.js,source.jsx,source.ts,source.tsx</scope>
 </snippet>
